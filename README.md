@@ -9,7 +9,4 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 ## Installation
 ```
 git clone https://github.com/mammaddrik/vimrc.git
-cd hashtools
-pyrhon pip install -r requirements.txt
-python hashtools.py
 ```
