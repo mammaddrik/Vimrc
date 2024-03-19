@@ -1,3 +1,5 @@
+## Colorscheme
+[![palette](https://i.postimg.cc/47m4ck4H/palette.png)](https://github.com/mammaddrik/hashtools)
 ## Setting up
 Install plugin manager:
 ```
