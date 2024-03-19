@@ -1,5 +1,5 @@
 ## Colorscheme
-[![palette](https://i.postimg.cc/47m4ck4H/palette.png)](https://github.com/mammaddrik/hashtools)
+[![palette.png](https://i.postimg.cc/jSstFyRp/palette.png)](https://github.com/mammaddrik/vimrc)
 ## Setting up
 Install plugin manager:
 ```
