@@ -10,3 +10,8 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 ```
 git clone https://github.com/mammaddrik/vimrc.git
 ```
+
+## Usage
+copy and paste .vimrc file to `/home`.<br>
+copy and paste hackthebox.vim file to `./vim/colors`.
+> If the directory does not exist use: `mkdir .vim/colors`.
