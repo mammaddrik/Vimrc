@@ -17,3 +17,7 @@ git clone https://github.com/mammaddrik/vimrc.git
 copy and paste .vimrc file to `/home`.<br>
 copy and paste hackthebox.vim file to `./vim/colors`.
 > If the directory does not exist use: `mkdir .vim/colors`.
+> for install Plugin in vim file use: `:PlugInstall`.
+
+## preview
+[![preview.png](https://i.postimg.cc/02v6dtBx/preview.png)](https://github.com/mammaddrik/vimrc)
